@@ -1,5 +1,0 @@
-sqlalchemy
-pymysql
-cryptography
-pwinput
-pytz
